@@ -10,7 +10,7 @@ public class TangentActivity extends Activity {
    public void onCreate(Bundle savedInstanceState) {
        super.onCreate(savedInstanceState);
        TextView tv = new TextView(this);
-       tv.setText("FUCCCCCCCCCCK");
+       tv.setText("Push test");
        setContentView(tv);
    }
 }
